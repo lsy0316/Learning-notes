@@ -57,7 +57,3 @@ CIR-Net 主要包含三个核心模块：
 - **思考**: 交互机制的设计对多模态学习至关重要，如何在保证性能的同时降低计算复杂度是一个重要研究方向
 
 ---
-
-## 📝 参考文献
-
-- [TIP 2022] CIR-Net: Cross-Modality Interaction and Fusion Network
