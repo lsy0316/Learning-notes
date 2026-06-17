@@ -64,9 +64,3 @@ Transformer 由编码器和解码器两部分组成：
 
 - **收获**: 理解了自注意力机制的核心思想，学习了 Transformer 的完整架构
 - **思考**: Transformer 的成功在于其强大的建模能力，但计算复杂度较高，如何在保持性能的同时提升效率是后续研究的重点
-
----
-
-## 📝 参考文献
-
-- [NeurIPS 2017] Vaswani, A., et al. "Attention Is All You Need."
