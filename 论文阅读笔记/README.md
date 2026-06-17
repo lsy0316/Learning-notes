@@ -6,10 +6,15 @@
 
 ```
 论文阅读笔记/
-├── 组会汇报课件/              # 组会汇报PPT资料
-├── 经典论文/                  # 深度学习经典论文
-├── notes/                     # 论文详细笔记
-└── README.md
+├── CIRNet/                   # CIR-Net论文与笔记
+├── DiffRSD/                  # DiffRSD论文与笔记
+├── DiffRSDI/                 # RGB-D Rail Defect论文与笔记
+├── FHENet/                   # FHENet论文与笔记
+├── TCINet/                   # Three-Branch论文与笔记
+├── Transformer/              # Transformer论文与笔记
+├── VMMCANet/                 # VisionMamba Enhanced论文与笔记
+├── VMamba/                   # VMamba论文与笔记
+└── README.md                 # 本文件
 ```
 
 ---
