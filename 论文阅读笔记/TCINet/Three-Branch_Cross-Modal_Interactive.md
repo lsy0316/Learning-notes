@@ -1,8 +1,8 @@
 # Three-Branch Cross-Modal Interactive Network
 
 **期刊**: IEEE Transactions on Instrumentation and Measurement (TIM) 2025  
-**作者**: 未明确  
-**单位**: 未明确  
+**作者**: Lisha Cui, Ming Ma, Chaochao Li, Xiaoheng Jiang, Zhiwen Song  
+**单位**: 郑州大学  
 **研究方向**: 三分支跨模态交互网络
 
 ---
