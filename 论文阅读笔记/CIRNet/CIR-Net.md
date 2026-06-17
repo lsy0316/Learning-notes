@@ -1,8 +1,7 @@
 # CIR-Net: Cross-Modality Interaction and Fusion
 
-**期刊**: IEEE Transactions on Image Processing (TIP) 2022  
-**作者**: 未明确  
-**单位**: 未明确  
+**期刊**: IEEE Transactions on Image Processing (TIP) 2022   
+**单位**: 北京交通大学
 **研究方向**: 跨模态学习、特征融合
 
 ---
