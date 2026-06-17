@@ -1,7 +1,7 @@
 # RGB-D Rail Surface Defect Inspection
 
 **期刊**: IEEE Sensors Letters (IEEESL) 2025  
-**作者**: 未明确  
+**作者**: Zhihao He, Gongyang Li, Member, IEEE, and Zhi Liu, Senior Member, IEEE  
 **单位**: 上海大学  
 **研究方向**: RGB-D 铁轨表面缺陷检测
 
@@ -58,9 +58,3 @@
 
 - **收获**: 学习了多模态数据在缺陷检测中的应用，了解了深度信息的重要性
 - **思考**: 深度信息能提供额外的几何特征，但对硬件设备要求较高，如何在低成本条件下获取有效深度信息是一个挑战
-
----
-
-## 📝 参考文献
-
-- [IEEESL 2025] RGB-D Rail Surface Defect Inspection

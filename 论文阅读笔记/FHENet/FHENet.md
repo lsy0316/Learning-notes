@@ -1,8 +1,8 @@
 # FHENet: Lightweight Feature Hierarchical Exploration Network
 
 **期刊**: IEEE Transactions on Instrumentation and Measurement (TIM) 2023  
-**作者**: 未明确  
-**单位**: 未明确  
+**作者**: Wujie Zhou, Member, IEEE, and Jiankang Hong  
+**单位**: 浙江科技大学  
 **研究方向**: 轻量级铁轨表面缺陷检测
 
 ---
@@ -58,9 +58,3 @@ FHENet 主要包含四个部分：
 
 - **收获**: 学习了轻量级网络设计的关键技术，了解了如何在精度和速度之间取得平衡
 - **思考**: 轻量化是实际工业应用中的重要需求，如何设计既高效又准确的网络架构是一个重要研究方向
-
----
-
-## 📝 参考文献
-
-- [TIM 2023] FHENet: Lightweight Feature Hierarchical Exploration Network
