@@ -1,7 +1,7 @@
 # DiffRSD: Diffusion-Based Rail Surface Defect Detection
 
 **期刊**: IEEE Transactions on Intelligent Transportation Systems (TITS) 2025  
-**作者**: 未明确  
+**作者**: Zhengyi Liu, Junnan Zhou, Rui Huang, Xianyong Fang  
 **单位**: 安徽大学  
 **研究方向**: 铁轨表面缺陷检测、扩散模型
 
@@ -57,9 +57,3 @@ DiffRSD 主要包含三个核心部分：
 
 - **收获**: 学习了扩散模型在视觉检测中的应用方式，了解了生成式方法的潜力
 - **思考**: 生成式方法为缺陷检测提供了新思路，但推理速度是一大挑战，如何在保证性能的同时提升效率是未来研究方向
-
----
-
-## 📝 参考文献
-
-- [TITS 2025] DiffRSD: Diffusion-Based Rail Surface Defect Detection
