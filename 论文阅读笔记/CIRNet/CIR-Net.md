@@ -1,9 +1,7 @@
 # CIR-Net: Cross-Modality Interaction and Fusion
 
-**期刊**: IEEE Transactions on Image Processing (TIP) 2022  
-**作者**: 未明确  
-**单位**: 未明确  
-**研究方向**: 跨模态学习、特征融合
+**期刊**: IEEE Transactions on Image Processing (TIP) 2022   
+**单位**: 北京交通大学
 
 ---
 
@@ -59,7 +57,3 @@ CIR-Net 主要包含三个核心模块：
 - **思考**: 交互机制的设计对多模态学习至关重要，如何在保证性能的同时降低计算复杂度是一个重要研究方向
 
 ---
-
-## 📝 参考文献
-
-- [TIP 2022] CIR-Net: Cross-Modality Interaction and Fusion Network
