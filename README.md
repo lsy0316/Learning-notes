@@ -149,12 +149,12 @@ Learning-notes/
 
 ## 📊 组会汇报课件
 
-| 课件名称 | 对应论文 | 汇报时间 |
-|---------|---------|---------|
-| [CIRNet汇报PPT.pptx](组会汇报课件/CIRNet汇报PPT.pptx) | CIR-Net (TIP 2022) | - |
-| [DiffRSDI汇报PPT.pptx](组会汇报课件/DiffRSDI汇报PPT.pptx) | RGB-D Rail Defect (IEEESL 2025) | - |
-| [DiffRSD汇报PPT.pptx](组会汇报课件/DiffRSD汇报PPT.pptx) | DiffRSD (TITS 2025) | - |
-| [FHENet汇报PPT.pptx](组会汇报课件/FHENet汇报PPT.pptx) | FHENet (TIM 2023) | - |
+| 课件名称 | 对应论文 |
+|---------|---------|
+| [CIRNet汇报PPT.pptx](组会汇报课件/CIRNet汇报PPT.pptx) | CIR-Net (TIP 2022) |
+| [DiffRSDI汇报PPT.pptx](组会汇报课件/DiffRSDI汇报PPT.pptx) | RGB-D Rail Defect (IEEESL 2025) |
+| [DiffRSD汇报PPT.pptx](组会汇报课件/DiffRSD汇报PPT.pptx) | DiffRSD (TITS 2025) |
+| [FHENet汇报PPT.pptx](组会汇报课件/FHENet汇报PPT.pptx) | FHENet (TIM 2023) |
 
 ---
 
