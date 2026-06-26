@@ -34,6 +34,9 @@ Learning-notes/
 │   ├── 字符串.md             # KMP、字符串哈希、AC自动机、后缀数组
 │   ├── 数论.md               # 素数、GCD、LCM、快速幂、组合数学、欧拉函数、CRT
 │   └── 贪心算法.md           # 区间问题、活动选择、哈夫曼编码、分数背包、跳跃游戏
+├── 学习笔记/
+│   ├── 深度学习/
+│   └── README.md
 └── README.md
 ```
 
@@ -54,6 +57,13 @@ Learning-notes/
 - 字符串（KMP、字符串哈希、AC自动机）
 - 数论（素数、GCD、快速幂、组合数学）
 - 贪心算法（区间问题、活动选择）
+
+### 学习笔记
+- 深度学习
+- 模式识别
+- 计算机网络
+- 操作系统
+- 模式识别
 
 ## 🎯 仓库目标
 
@@ -139,12 +149,12 @@ Learning-notes/
 
 ## 📊 组会汇报课件
 
-| 课件名称 | 对应论文 | 汇报时间 |
-|---------|---------|---------|
-| [CIRNet汇报PPT.pptx](组会汇报课件/CIRNet汇报PPT.pptx) | CIR-Net (TIP 2022) | - |
-| [DiffRSDI汇报PPT.pptx](组会汇报课件/DiffRSDI汇报PPT.pptx) | RGB-D Rail Defect (IEEESL 2025) | - |
-| [DiffRSD汇报PPT.pptx](组会汇报课件/DiffRSD汇报PPT.pptx) | DiffRSD (TITS 2025) | - |
-| [FHENet汇报PPT.pptx](组会汇报课件/FHENet汇报PPT.pptx) | FHENet (TIM 2023) | - |
+| 课件名称 | 对应论文 |
+|---------|---------|
+| [CIRNet汇报PPT.pptx](组会汇报课件/CIRNet汇报PPT.pptx) | CIR-Net (TIP 2022) |
+| [DiffRSDI汇报PPT.pptx](组会汇报课件/DiffRSDI汇报PPT.pptx) | RGB-D Rail Defect (IEEESL 2025) |
+| [DiffRSD汇报PPT.pptx](组会汇报课件/DiffRSD汇报PPT.pptx) | DiffRSD (TITS 2025) |
+| [FHENet汇报PPT.pptx](组会汇报课件/FHENet汇报PPT.pptx) | FHENet (TIM 2023) |
 
 ---
 
