@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-//¶¯Ì¬¹æ»®Çó½â
+//åŠ¨æ€è§„åˆ’
 int climbStairs(int n){
 	if(n == 1){
 		return 1;

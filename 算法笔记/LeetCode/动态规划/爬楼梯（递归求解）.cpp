@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
+
+//递归求解，复杂度Q(n^2)
 int climbStairs(int n){
 	if(n == 1){
 		return 1;
