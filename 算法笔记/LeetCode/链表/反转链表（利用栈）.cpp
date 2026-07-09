@@ -1,20 +1,21 @@
 #include<bits/stdc++.h>
 using namespace std;
-//Á´±í½á¹¹Ìå 
+//é“¾è¡¨ç»“æ„ä½“ 
 struct ListNode{
-	int val;//Êı¾İÓò 
-	ListNode *next;//Ö¸ÕëÓò 
-	//¹¹Ôìº¯Êı 
+	int val;//æ•°æ®åŸŸ 
+	ListNode *next;//æŒ‡é’ˆåŸŸ 
+	//æ„é€ å‡½æ•° 
 	ListNode(int x, ListNode *nextptr = nullptr):val(x), next(nextptr){
 	}
 };
 
-//·´×ªÁ´±í 
+//åè½¬é“¾è¡¨ï¼ˆåˆ©ç”¨æ ˆçš„å…ˆè¿›åå‡ºåŸåˆ™ï¼Œä»…æ”¹å˜èŠ‚ç‚¹æ•°æ®ï¼‰ 
+//æ—¶é—´å¤æ‚åº¦O(n),ç©ºé—´å¤æ‚åº¦O(n)
 ListNode* reverseList(ListNode* head){
 	stack<int> s;
 	ListNode *ptr1 = head;
 	while(ptr1 != nullptr){
-		//ÈëÕ» 
+		//å…¥æ ˆ 
 		s.push(ptr1->val);
 		ptr1 = ptr1->next;
 	}
@@ -22,7 +23,7 @@ ListNode* reverseList(ListNode* head){
 	while(ptr2 != nullptr){
 		ptr2->val = s.top();
 		s.pop();
-		//³öÕ» 
+		//å‡ºæ ˆ 
 		ptr2 = ptr2->next;
 	}
 	return head;
@@ -36,27 +37,27 @@ int main(){
 	for(int i = 0; i < n; i++){
 		int x;
 		cin >> x;
-		//´´½¨ĞÂ½Úµã 
+		//åˆ›å»ºæ–°èŠ‚ç‚¹ 
 		ListNode *node = new ListNode(x);
-		//µÚÒ»´Î²åÈë 
+		//ç¬¬ä¸€æ¬¡æ’å…¥ 
 		if(head == nullptr){
 			head = node;
 			tail = node;
 		}
 		else{
-			//Î²²¿Á¬½ÓĞÂ½Úµã 
+			//å°¾éƒ¨è¿æ¥æ–°èŠ‚ç‚¹ 
 			tail->next = node;
-			//¸üĞÂÎ²Ö¸Õë 
+			//æ›´æ–°å°¾æŒ‡é’ˆ 
 			tail = node;
 		}
 	}
-	//±éÀúÁ´±í
+	//éå†é“¾è¡¨
 	ListNode *ptr = head;
 	while(ptr != nullptr){
 		cout << ptr->val << " ";
 		ptr = ptr->next;
 	} 
-	//·´×ªÁ´±í
+	//åè½¬é“¾è¡¨
 	ListNode *head2 = reverseList(head);
 	ListNode *ptr1 = head2;
 	while(ptr1 != nullptr){
