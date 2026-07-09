@@ -2,9 +2,9 @@
 using namespace std;
 
 vector<vector<int>> generate(int numRows){
-	//³õÊ¼»¯
+	//åˆå§‹åŒ–
 	vector<vector<int>> nums(numRows);
-	//À©Èİ
+	//åŠ¨æ€æ‰©å®¹
 	for(int i = 0; i < numRows; i++){
 		nums[i].resize(i + 1);
 		nums[i][0] = 1;
@@ -12,6 +12,7 @@ vector<vector<int>> generate(int numRows){
 	} 
 	for(int i = 2; i < numRows; i++){
 		for(int j = 1; j < i; j++){
+			//åŠ¨æ€è§„åˆ’
 			nums[i][j] = nums[i - 1][j - 1] + nums[i - 1][j];
 		}
 	}
