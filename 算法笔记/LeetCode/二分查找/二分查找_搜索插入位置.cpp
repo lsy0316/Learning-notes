@@ -6,6 +6,7 @@ int searchInsert(vector<int>& nums, int target){
 	int left = 0, right = len - 1;
 	int middle;
 	while(left <= right){
+		//二分查找
 		middle = left + ((right - left) / 2);
 		if(nums[middle] < target){
 			left = middle + 1;
@@ -17,6 +18,7 @@ int searchInsert(vector<int>& nums, int target){
 			return middle;
 		}
 	}
+	//未找到目标值，进行大小判断确定插入位置
 	if(target < nums[middle]){
 		return middle; 
 	}
